@@ -27,8 +27,7 @@ Another challenge for hotels is to be able to identify in advance customers who 
 The worst case for our client is the risk of over-booking. The main objective of this project was then to reduce the False Positive errors. As a result, the metric to look at was the precision score. 
 <br>
 <img src="https://github.com/abeliapetelle/Predicting-Booking-Cancellations/blob/master/Media/Model%20comparison%20v2.png" width="60%" height="60%">
-The best model regarding the ROC AUC score is the Random Forest but regarding the precision score it is our Ensemble model.
-Since we know that Random forest tends to overfit, we will keep the 'Ensemble' (Voting Classifier) as our final model.
+The best model regarding the scores is the Random Forest. Since we know that Random forest tends to overfit, we will keep the 'Ensemble' (Voting Classifier) as our final model.
 
 ## Conclusion 
 - With the Voting Classifier model, we are able to predict a booking cancellation by 86%
