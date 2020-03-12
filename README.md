@@ -21,6 +21,9 @@ Another challenge for hotels is to be able to identify in advance customers who 
 ## Result of the clustering with UMAP visualization 
 <img src="https://github.com/abeliapetelle/Predicting-Booking-Cancellations/blob/master/Media/Clustering%20with%20UMAP%20visualization.png" width="40%" height="40%">
 
+The silhouette score is at 0.48 and Davies Bouldin score at 1.3. 
+Even if these metrics are not bad, visually, we do not see clear separations between clusters. 
+It is often difficult to see the result of a clustering in a two dimensions visualisation. But as I used the PCA method, we cannot visualize the result in three dimensions. The best is to see the impact of these clusters in the modeling part. 
 
 ## Objective & Result of the classification models 
 <img src="https://github.com/abeliapetelle/Predicting-Booking-Cancellations/blob/master/Media/Objective%20for%20modeling.png" width="60%" height="60%">
