@@ -43,3 +43,11 @@ The best model regarding the scores is the Random Forest. Since we know that Ran
 - Building a more universal model getting more data from various hotels
 - Building a more specialized model with better results focusing only on a specific hotel
 
+## Built With
+* [Python](https://docs.python.org/3/) - The programming language used
+* [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html) - library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language
+* [MatPlotLib](https://matplotlib.org/contents.html) - Matplotlib is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms
+* [Sklearn](https://scikit-learn.org/stable/) - Sklearn is a machine learning library featuring various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting and k-means.
+* [Seaborn](https://seaborn.pydata.org/index.html) - Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+* [NumPy](https://numpy.org/) - NumPy is a library adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. 
+* [SciPy](https://www.scipy.org/) - SciPy is an ecosystem of open-source software for mathematics, science, and engineering.
